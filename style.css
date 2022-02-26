@@ -123,7 +123,7 @@ ul{
 }
 
 
-@media only screen and (max-width: 913px){
+@media only screen and (max-width: 530px){
     main{
     margin-top: 0;
     background: url("images/background.svg") no-repeat center/cover;
